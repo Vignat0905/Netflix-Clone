@@ -39,7 +39,7 @@ This project is a fully functional Netflix clone 🎥 that replicates the core f
 
 ## 🚀 Live Demo
 
-Check out the live version of the Netflix Clone [here](https://your-netflix-clone.netlify.app) 🌐.
+Check out the live version of the Netflix Clone [here](https://entertainment-stream.netlify.app/) 🌐.
 
 
 ## 💻 Usage
