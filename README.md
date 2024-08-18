@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone
 
-## 🚀 About the Project
+## 📄 Overview
 
 This project is a fully functional Netflix clone 🎥 that replicates the core features of the popular streaming platform. The app dynamically fetches movie data from The Movie Database (TMDB) API and provides a seamless user experience with trailer pop-ups and secure user authentication.
 
